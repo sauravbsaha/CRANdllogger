@@ -1,6 +1,6 @@
 #' CRANdllogger
 #' @title cran.download.log
-#' @description Takes start date, end date of download log registry and package name to return log resistry of package download history for the specified dates.
+#' @description CRANdllogger is a R package which enables the R package developer to download CRAN downloading history in csv file format. The package downloads the complete downloading history for the duration specified as input, when triggered for the first time. Once the complete database is downloaded, the tools can work as standalone package, without any need of internet. The output file can be procured from the output.csv directory in the current working directory.
 #' @param start.date Starting date is the date since user want to extract the package download history log.
 #' @param end.date End date is the date till the user want to extract the package download history log.
 #' @param package.name The name of the package.
@@ -8,9 +8,6 @@
 #' @usage cran.download.log(start.date,end.date, package.name)
 #' @import stats
 #' @import utils
-#' @examples{
-#' cran.download.log("2018-05-17", "2018-05-18", "uCAREChemSuiteCLI")
-#' }
 #' @export
 
 cran.download.log <- function(start.date,end.date, package.name)

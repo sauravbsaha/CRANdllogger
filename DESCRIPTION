@@ -4,7 +4,7 @@ Title: CRAN package download-history extractor
 Version: 0.1.0
 Date: 2019-08-27
 Author: Saurav Bhaskar Saha and Rohit Farmer
-Maintainer: Saurav Bhaskar Saha <saurav.saha@shiats.edu.in>
+Maintainer: Saurav Bhaskar Saha <sauravsaha@ymail.com>
 Description: This package takes downloading log start date, end date and package name as input and returns downloading history of package in CSV file.
 License: MIT + file LICENSE
 Encoding: UTF-8
