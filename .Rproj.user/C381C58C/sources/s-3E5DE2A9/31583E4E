@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1566900374011.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "31583E4E",
+    "lastKnownWriteTime" : 1566965868,
+    "last_content_update" : 1566965868245,
+    "path" : "D:/R/CRANdllogger/CRANdllogger/R/CRANdllogger.R",
+    "project_path" : "R/CRANdllogger.R",
+    "properties" : {
+        "cursorPosition" : "0,11",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
