@@ -6,7 +6,6 @@ Manual: CRANdllogger
 -   [Requirements](#requirements)
 -   [Imports](#imports)
 -   [Installation](#installation)
--   [Example](#example)
 -   [Usage](#usage)
 -   [Help](#help)
 -   [Bugs](#bugs)
@@ -22,10 +21,9 @@ Requirements
 
 Imports
 ============
+-	devtools (tested in version 2.1.0)
 -   stats (tested in version 3.5.2)
 -   utils (tested in version 3.5.2)
-
-
 
 Installation of Pre-requisite packages
 ============
