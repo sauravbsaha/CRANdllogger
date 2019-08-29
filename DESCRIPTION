@@ -1,11 +1,11 @@
 Package: CRANdllogger
 Type: Package
-Title: CRAN package download-history extractor
+Title: CRAN Package Download-History Extractor
 Version: 0.1.0
-Date: 2019-08-27
+Date: 2019-08-29
 Author: Saurav Bhaskar Saha and Rohit Farmer
 Maintainer: Saurav Bhaskar Saha <sauravsaha@ymail.com>
-Description: This package takes downloading log start date, end date and package name as input and returns downloading history of package in CSV file.
+Description: Downloads  downloading history of package in CSV file, if provided with downloading log start date, end date and package name as input.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
